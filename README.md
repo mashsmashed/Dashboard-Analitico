@@ -6,5 +6,4 @@ https://www.fao.org/faostat/en/#data
 
 Proyecto trabajado por:
 
-Roberto Mateo Arévalo Rodríguez
-Ruth Montserrat Mendez Maldonado
+Roberto Mateo Arévalo Rodríguez \nRuth Montserrat Mendez Maldonado

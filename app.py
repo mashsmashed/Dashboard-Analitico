@@ -22,7 +22,15 @@ REGIONAL_TOTALS = {"Africa", "Americas", "Asia", "China", "Europe", "Oceania"}
 
 
 def create_app():
-    app = Flask(__name__)
+    app = Flask(
+	__name__,
+	static_folder="dist",
+	static_url_path=""
+    )
+    @app.route("/")
+    def index():
+	return app.send_static_file("index.html")
+
     data = pd.read_csv(
         ROOT / "data" / "food_balance_long.csv",
         dtype={"Area": "category", "Item": "category", "Element": "category"},

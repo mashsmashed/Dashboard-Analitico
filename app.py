@@ -29,8 +29,8 @@ def create_app():
     )
 
     @app.route("/")
-	def index():
-		return app.send_static_file("index.html")
+    def index():
+        return app.send_static_file("index.html")
 
     data = pd.read_csv(
         ROOT / "data" / "food_balance_long.csv",
@@ -47,7 +47,20 @@ def create_app():
     )
     options = {
         name: sorted(data[column].dropna().unique().tolist())
-        for name, column in DIMENSIONS.items()
+        for name, column in   File "<frozen importlib._bootstrap_external>", line 897, in get_code
+Menu
+05:25:46 PM
+  File "<frozen importlib._bootstrap_external>", line 827, in source_to_code
+05:25:46 PM
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+05:25:46 PM
+  File "/opt/render/project/src/app.py", line 32
+05:25:46 PM
+    	def index():
+05:25:46 PM
+    ^
+05:25:46 PM
+TabError: inconsistent use of tabs and spaces in indentationDIMENSIONS.items()
     }
 
     @app.get("/api/food-balance/options")

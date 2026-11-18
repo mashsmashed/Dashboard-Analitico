@@ -1,0 +1,169 @@
+﻿.dashboard {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 4fr) minmax(0, 1.4fr);
+  min-height: 100svh;
+}
+
+.sidebar {
+  background: #fafbfc;
+}
+
+.food-details {
+  padding: 1rem;
+  overflow-wrap: anywhere;
+}
+
+.food-measures div + div {
+  margin-top: 0.75rem;
+}
+
+.food-measures dd {
+  margin: 0;
+  font-weight: 600;
+}
+
+.ranking {
+  max-height: 7rem;
+  overflow-y: auto;
+  padding: 0.25rem 0.5rem 0.25rem 1.75rem;
+  border: 1px solid #dce3e9;
+  font-size: 0.875rem;
+}
+
+.ranking li + li {
+  margin-top: 0.4rem;
+}
+
+.regional-pie {
+  width: min(100%, 8rem);
+  aspect-ratio: 1;
+  margin-inline: auto;
+  border-radius: 50%;
+}
+
+.chart-legend {
+  display: grid;
+  gap: 0.25rem;
+  padding: 0;
+  list-style: none;
+  font-size: 0.8rem;
+}
+
+.chart-legend span {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  margin-inline-end: 0.35rem;
+}
+
+.trade-chart {
+  display: block;
+  width: 100%;
+  max-width: 24rem;
+}
+
+.trade-chart text {
+  fill: currentColor;
+  font-size: 10px;
+}
+
+.filters,
+.filters label {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.filters {
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 2fr);
+}
+
+.filters select {
+  width: 100%;
+  min-width: 0;
+  padding: 0.5rem;
+  font: inherit;
+}
+
+.year-slider input {
+  width: 100%;
+  margin: 0;
+  accent-color: #a30d61;
+}
+
+@media (max-width: 700px) {
+  .dashboard {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .filters {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (min-width: 701px) {
+  .dashboard {
+    height: 100dvh;
+    min-height: 0;
+    grid-template-rows: minmax(0, 1fr);
+  }
+
+  .sidebar {
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+  }
+
+  .map-panel {
+    overflow-y: auto;
+  }
+}
+
+.map-panel {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  align-items: center;
+  gap: 1rem;
+  padding: clamp(0.25rem, 2vw, 2rem);
+  border-inline: 1px solid #dce3e9;
+  background: #edf4f8;
+}
+
+.world-map {
+  display: block;
+  width: 100%;
+}
+
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.legend-gradient {
+  width: clamp(3rem, 18vw, 10rem);
+  height: 0.75rem;
+}
+
+.legend-missing::before {
+  display: inline-block;
+  width: 0.75rem;
+  height: 0.75rem;
+  margin-inline: 0.5rem 0.25rem;
+  background: #c2cbd2;
+  content: '';
+}
+
+.country {
+  cursor: pointer;
+  stroke: #edf4f8;
+  stroke-width: 0.65px;
+  vector-effect: non-scaling-stroke;
+}
+
+.country:hover,
+.country:focus-visible,
+.country[aria-pressed='true'] {
+  stroke: #182735;
+  stroke-width: 1.25px;
+}

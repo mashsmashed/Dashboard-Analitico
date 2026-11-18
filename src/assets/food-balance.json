@@ -1,0 +1,924 @@
+{
+  "byCountry": {
+    "AFG": {
+      "Domestic supply quantity": 9852.0,
+      "Export quantity": 6.0,
+      "Food": 8435.0,
+      "Import quantity": 4744.0
+    },
+    "AGO": {
+      "Domestic supply quantity": 5030.0,
+      "Export quantity": 3.0,
+      "Food": 3116.0,
+      "Import quantity": 1544.0
+    },
+    "ALB": {
+      "Domestic supply quantity": 1126.0,
+      "Export quantity": 16.0,
+      "Food": 345.0,
+      "Import quantity": 464.0
+    },
+    "ARE": {
+      "Domestic supply quantity": 4604.0,
+      "Export quantity": 998.0,
+      "Food": 1677.0,
+      "Import quantity": 5334.0
+    },
+    "ARG": {
+      "Domestic supply quantity": 29265.0,
+      "Export quantity": 32254.0,
+      "Food": 6932.0,
+      "Import quantity": 173.0
+    },
+    "ARM": {
+      "Domestic supply quantity": 874.0,
+      "Export quantity": 4.0,
+      "Food": 512.0,
+      "Import quantity": 652.0
+    },
+    "AUS": {
+      "Domestic supply quantity": 17040.0,
+      "Export quantity": 42857.0,
+      "Food": 3052.0,
+      "Import quantity": 1555.0
+    },
+    "AUT": {
+      "Domestic supply quantity": 6637.0,
+      "Export quantity": 2204.0,
+      "Food": 1142.0,
+      "Import quantity": 3704.0
+    },
+    "AZE": {
+      "Domestic supply quantity": 4901.0,
+      "Export quantity": 20.0,
+      "Food": 2373.0,
+      "Import quantity": 1666.0
+    },
+    "BEL": {
+      "Domestic supply quantity": 9775.0,
+      "Export quantity": 8475.0,
+      "Food": 1537.0,
+      "Import quantity": 15698.0
+    },
+    "BFA": {
+      "Domestic supply quantity": 6526.0,
+      "Export quantity": 17.0,
+      "Food": 4908.0,
+      "Import quantity": 1677.0
+    },
+    "BGD": {
+      "Domestic supply quantity": 75044.0,
+      "Export quantity": 70.0,
+      "Food": 45003.0,
+      "Import quantity": 10978.0
+    },
+    "BGR": {
+      "Domestic supply quantity": 4029.0,
+      "Export quantity": 8766.0,
+      "Food": 741.0,
+      "Import quantity": 507.0
+    },
+    "BHS": {
+      "Domestic supply quantity": 64.0,
+      "Export quantity": 0.0,
+      "Food": 30.0,
+      "Import quantity": 63.0
+    },
+    "BIH": {
+      "Domestic supply quantity": 1856.0,
+      "Export quantity": 116.0,
+      "Food": 492.0,
+      "Import quantity": 875.0
+    },
+    "BLR": {
+      "Domestic supply quantity": 7290.0,
+      "Export quantity": 86.0,
+      "Food": 952.0,
+      "Import quantity": 363.0
+    },
+    "BLZ": {
+      "Domestic supply quantity": 181.0,
+      "Export quantity": 8.0,
+      "Food": 66.0,
+      "Import quantity": 38.0
+    },
+    "BOL": {
+      "Domestic supply quantity": 3604.0,
+      "Export quantity": 34.0,
+      "Food": 1637.0,
+      "Import quantity": 337.0
+    },
+    "BRA": {
+      "Domestic supply quantity": 101167.0,
+      "Export quantity": 60699.0,
+      "Food": 26403.0,
+      "Import quantity": 9915.0
+    },
+    "BTN": {
+      "Domestic supply quantity": 281.0,
+      "Export quantity": 0.0,
+      "Food": 225.0,
+      "Import quantity": 230.0
+    },
+    "BWA": {
+      "Domestic supply quantity": 832.0,
+      "Export quantity": 200.0,
+      "Food": 453.0,
+      "Import quantity": 1006.0
+    },
+    "CAN": {
+      "Domestic supply quantity": 30491.0,
+      "Export quantity": 38725.0,
+      "Food": 5324.0,
+      "Import quantity": 8350.0
+    },
+    "CHE": {
+      "Domestic supply quantity": 2329.0,
+      "Export quantity": 178.0,
+      "Food": 1220.0,
+      "Import quantity": 1624.0
+    },
+    "CHL": {
+      "Domestic supply quantity": 6536.0,
+      "Export quantity": 488.0,
+      "Food": 2749.0,
+      "Import quantity": 4304.0
+    },
+    "CHN": {
+      "Domestic supply quantity": 707809.0,
+      "Export quantity": 3834.0,
+      "Food": 310929.0,
+      "Import quantity": 68144.0
+    },
+    "CIV": {
+      "Domestic supply quantity": 6006.0,
+      "Export quantity": 234.0,
+      "Food": 4818.0,
+      "Import quantity": 3053.0
+    },
+    "CMR": {
+      "Domestic supply quantity": 5767.0,
+      "Export quantity": 16.0,
+      "Food": 4390.0,
+      "Import quantity": 1876.0
+    },
+    "COD": {
+      "Domestic supply quantity": 5630.0,
+      "Export quantity": 11.0,
+      "Food": 4452.0,
+      "Import quantity": 1537.0
+    },
+    "COG": {
+      "Domestic supply quantity": 530.0,
+      "Export quantity": 0.0,
+      "Food": 437.0,
+      "Import quantity": 505.0
+    },
+    "COL": {
+      "Domestic supply quantity": 14017.0,
+      "Export quantity": 248.0,
+      "Food": 7181.0,
+      "Import quantity": 8906.0
+    },
+    "CRI": {
+      "Domestic supply quantity": 1699.0,
+      "Export quantity": 151.0,
+      "Food": 697.0,
+      "Import quantity": 1764.0
+    },
+    "CYP": {
+      "Domestic supply quantity": 801.0,
+      "Export quantity": 4.0,
+      "Food": 187.0,
+      "Import quantity": 716.0
+    },
+    "CZE": {
+      "Domestic supply quantity": 5054.0,
+      "Export quantity": 4456.0,
+      "Food": 1050.0,
+      "Import quantity": 1760.0
+    },
+    "DEU": {
+      "Domestic supply quantity": 42466.0,
+      "Export quantity": 19403.0,
+      "Food": 8479.0,
+      "Import quantity": 19672.0
+    },
+    "DJI": {
+      "Domestic supply quantity": 1288.0,
+      "Export quantity": 30.0,
+      "Food": 213.0,
+      "Import quantity": 1318.0
+    },
+    "DNK": {
+      "Domestic supply quantity": 7552.0,
+      "Export quantity": 2054.0,
+      "Food": 783.0,
+      "Import quantity": 1642.0
+    },
+    "DOM": {
+      "Domestic supply quantity": 3055.0,
+      "Export quantity": 264.0,
+      "Food": 1354.0,
+      "Import quantity": 2359.0
+    },
+    "DZA": {
+      "Domestic supply quantity": 15809.0,
+      "Export quantity": 76.0,
+      "Food": 9288.0,
+      "Import quantity": 10701.0
+    },
+    "ECU": {
+      "Domestic supply quantity": 4663.0,
+      "Export quantity": 28.0,
+      "Food": 2368.0,
+      "Import quantity": 1958.0
+    },
+    "EGY": {
+      "Domestic supply quantity": 42048.0,
+      "Export quantity": 1577.0,
+      "Food": 28444.0,
+      "Import quantity": 17081.0
+    },
+    "ESP": {
+      "Domestic supply quantity": 36599.0,
+      "Export quantity": 3131.0,
+      "Food": 5544.0,
+      "Import quantity": 26898.0
+    },
+    "EST": {
+      "Domestic supply quantity": 525.0,
+      "Export quantity": 972.0,
+      "Food": 118.0,
+      "Import quantity": 227.0
+    },
+    "ETH": {
+      "Domestic supply quantity": 33298.0,
+      "Export quantity": 16.0,
+      "Food": 26899.0,
+      "Import quantity": 1592.0
+    },
+    "FIN": {
+      "Domestic supply quantity": 3197.0,
+      "Export quantity": 559.0,
+      "Food": 851.0,
+      "Import quantity": 511.0
+    },
+    "FJI": {
+      "Domestic supply quantity": 159.0,
+      "Export quantity": 70.0,
+      "Food": 116.0,
+      "Import quantity": 241.0
+    },
+    "FRA": {
+      "Domestic supply quantity": 36542.0,
+      "Export quantity": 29079.0,
+      "Food": 8439.0,
+      "Import quantity": 6184.0
+    },
+    "GAB": {
+      "Domestic supply quantity": 388.0,
+      "Export quantity": 0.0,
+      "Food": 361.0,
+      "Import quantity": 340.0
+    },
+    "GBR": {
+      "Domestic supply quantity": 28972.0,
+      "Export quantity": 4173.0,
+      "Food": 10532.0,
+      "Import quantity": 11013.0
+    },
+    "GEO": {
+      "Domestic supply quantity": 1234.0,
+      "Export quantity": 6.0,
+      "Food": 650.0,
+      "Import quantity": 900.0
+    },
+    "GHA": {
+      "Domestic supply quantity": 8046.0,
+      "Export quantity": 53.0,
+      "Food": 4109.0,
+      "Import quantity": 2231.0
+    },
+    "GIN": {
+      "Domestic supply quantity": 6947.0,
+      "Export quantity": 0.0,
+      "Food": 3055.0,
+      "Import quantity": 1984.0
+    },
+    "GMB": {
+      "Domestic supply quantity": 1045.0,
+      "Export quantity": 2.0,
+      "Food": 996.0,
+      "Import quantity": 1009.0
+    },
+    "GNB": {
+      "Domestic supply quantity": 641.0,
+      "Export quantity": 0.0,
+      "Food": 604.0,
+      "Import quantity": 343.0
+    },
+    "GRC": {
+      "Domestic supply quantity": 5126.0,
+      "Export quantity": 1074.0,
+      "Food": 1234.0,
+      "Import quantity": 2597.0
+    },
+    "GTM": {
+      "Domestic supply quantity": 4889.0,
+      "Export quantity": 245.0,
+      "Food": 2416.0,
+      "Import quantity": 3017.0
+    },
+    "GUY": {
+      "Domestic supply quantity": 457.0,
+      "Export quantity": 607.0,
+      "Food": 136.0,
+      "Import quantity": 115.0
+    },
+    "HND": {
+      "Domestic supply quantity": 2296.0,
+      "Export quantity": 187.0,
+      "Food": 1324.0,
+      "Import quantity": 1805.0
+    },
+    "HRV": {
+      "Domestic supply quantity": 2205.0,
+      "Export quantity": 1764.0,
+      "Food": 481.0,
+      "Import quantity": 836.0
+    },
+    "HTI": {
+      "Domestic supply quantity": 1757.0,
+      "Export quantity": 1.0,
+      "Food": 1671.0,
+      "Import quantity": 1369.0
+    },
+    "HUN": {
+      "Domestic supply quantity": 9302.0,
+      "Export quantity": 6228.0,
+      "Food": 1380.0,
+      "Import quantity": 2085.0
+    },
+    "IDN": {
+      "Domestic supply quantity": 79025.0,
+      "Export quantity": 860.0,
+      "Food": 60919.0,
+      "Import quantity": 17747.0
+    },
+    "IND": {
+      "Domestic supply quantity": 335608.0,
+      "Export quantity": 31231.0,
+      "Food": 265620.0,
+      "Import quantity": 1007.0
+    },
+    "IRL": {
+      "Domestic supply quantity": 6274.0,
+      "Export quantity": 1175.0,
+      "Food": 656.0,
+      "Import quantity": 5060.0
+    },
+    "IRN": {
+      "Domestic supply quantity": 27719.0,
+      "Export quantity": 108.0,
+      "Food": 17209.0,
+      "Import quantity": 8963.0
+    },
+    "IRQ": {
+      "Domestic supply quantity": 12037.0,
+      "Export quantity": 2.0,
+      "Food": 8274.0,
+      "Import quantity": 7770.0
+    },
+    "ISL": {
+      "Domestic supply quantity": 149.0,
+      "Export quantity": 0.0,
+      "Food": 70.0,
+      "Import quantity": 144.0
+    },
+    "ISR": {
+      "Domestic supply quantity": 4528.0,
+      "Export quantity": 44.0,
+      "Food": 1432.0,
+      "Import quantity": 4227.0
+    },
+    "ITA": {
+      "Domestic supply quantity": 27079.0,
+      "Export quantity": 6502.0,
+      "Food": 9228.0,
+      "Import quantity": 19147.0
+    },
+    "JAM": {
+      "Domestic supply quantity": 826.0,
+      "Export quantity": 33.0,
+      "Food": 344.0,
+      "Import quantity": 861.0
+    },
+    "JOR": {
+      "Domestic supply quantity": 3539.0,
+      "Export quantity": 121.0,
+      "Food": 1353.0,
+      "Import quantity": 3075.0
+    },
+    "KAZ": {
+      "Domestic supply quantity": 10116.0,
+      "Export quantity": 11860.0,
+      "Food": 2452.0,
+      "Import quantity": 4728.0
+    },
+    "KEN": {
+      "Domestic supply quantity": 8505.0,
+      "Export quantity": 257.0,
+      "Food": 6791.0,
+      "Import quantity": 4752.0
+    },
+    "KGZ": {
+      "Domestic supply quantity": 2442.0,
+      "Export quantity": 32.0,
+      "Food": 1043.0,
+      "Import quantity": 806.0
+    },
+    "KHM": {
+      "Domestic supply quantity": 14008.0,
+      "Export quantity": 1110.0,
+      "Food": 4650.0,
+      "Import quantity": 886.0
+    },
+    "KOR": {
+      "Domestic supply quantity": 23520.0,
+      "Export quantity": 375.0,
+      "Food": 8009.0,
+      "Import quantity": 17704.0
+    },
+    "KWT": {
+      "Domestic supply quantity": 1457.0,
+      "Export quantity": 124.0,
+      "Food": 869.0,
+      "Import quantity": 1564.0
+    },
+    "LAO": {
+      "Domestic supply quantity": 4456.0,
+      "Export quantity": 325.0,
+      "Food": 1924.0,
+      "Import quantity": 267.0
+    },
+    "LBN": {
+      "Domestic supply quantity": 1316.0,
+      "Export quantity": 38.0,
+      "Food": 832.0,
+      "Import quantity": 1144.0
+    },
+    "LBR": {
+      "Domestic supply quantity": 1204.0,
+      "Export quantity": 0.0,
+      "Food": 1140.0,
+      "Import quantity": 1246.0
+    },
+    "LBY": {
+      "Domestic supply quantity": 1742.0,
+      "Export quantity": 0.0,
+      "Food": 879.0,
+      "Import quantity": 1099.0
+    },
+    "LKA": {
+      "Domestic supply quantity": 6070.0,
+      "Export quantity": 186.0,
+      "Food": 5265.0,
+      "Import quantity": 1352.0
+    },
+    "LSO": {
+      "Domestic supply quantity": 361.0,
+      "Export quantity": 55.0,
+      "Food": 316.0,
+      "Import quantity": 360.0
+    },
+    "LTU": {
+      "Domestic supply quantity": 1740.0,
+      "Export quantity": 4783.0,
+      "Food": 352.0,
+      "Import quantity": 829.0
+    },
+    "LUX": {
+      "Domestic supply quantity": 249.0,
+      "Export quantity": 227.0,
+      "Food": 90.0,
+      "Import quantity": 324.0
+    },
+    "LVA": {
+      "Domestic supply quantity": 1163.0,
+      "Export quantity": 3325.0,
+      "Food": 261.0,
+      "Import quantity": 1816.0
+    },
+    "MAR": {
+      "Domestic supply quantity": 16634.0,
+      "Export quantity": 61.0,
+      "Food": 9550.0,
+      "Import quantity": 11622.0
+    },
+    "MDA": {
+      "Domestic supply quantity": 1822.0,
+      "Export quantity": 1880.0,
+      "Food": 413.0,
+      "Import quantity": 168.0
+    },
+    "MDG": {
+      "Domestic supply quantity": 6450.0,
+      "Export quantity": 0.0,
+      "Food": 5262.0,
+      "Import quantity": 991.0
+    },
+    "MEX": {
+      "Domestic supply quantity": 58511.0,
+      "Export quantity": 1964.0,
+      "Food": 21665.0,
+      "Import quantity": 25090.0
+    },
+    "MKD": {
+      "Domestic supply quantity": 726.0,
+      "Export quantity": 98.0,
+      "Food": 303.0,
+      "Import quantity": 297.0
+    },
+    "MMR": {
+      "Domestic supply quantity": 24043.0,
+      "Export quantity": 3629.0,
+      "Food": 15419.0,
+      "Import quantity": 460.0
+    },
+    "MNE": {
+      "Domestic supply quantity": 275.0,
+      "Export quantity": 1.0,
+      "Food": 131.0,
+      "Import quantity": 271.0
+    },
+    "MNG": {
+      "Domestic supply quantity": 814.0,
+      "Export quantity": 48.0,
+      "Food": 439.0,
+      "Import quantity": 474.0
+    },
+    "MOZ": {
+      "Domestic supply quantity": 4738.0,
+      "Export quantity": 65.0,
+      "Food": 4261.0,
+      "Import quantity": 2214.0
+    },
+    "MRT": {
+      "Domestic supply quantity": 1236.0,
+      "Export quantity": 1.0,
+      "Food": 1131.0,
+      "Import quantity": 882.0
+    },
+    "MWI": {
+      "Domestic supply quantity": 4053.0,
+      "Export quantity": 28.0,
+      "Food": 3062.0,
+      "Import quantity": 171.0
+    },
+    "MYS": {
+      "Domestic supply quantity": 10020.0,
+      "Export quantity": 1454.0,
+      "Food": 5937.0,
+      "Import quantity": 9211.0
+    },
+    "NAM": {
+      "Domestic supply quantity": 924.0,
+      "Export quantity": 49.0,
+      "Food": 436.0,
+      "Import quantity": 834.0
+    },
+    "NCL": {
+      "Domestic supply quantity": 66.0,
+      "Export quantity": 0.0,
+      "Food": 46.0,
+      "Import quantity": 63.0
+    },
+    "NER": {
+      "Domestic supply quantity": 6479.0,
+      "Export quantity": 2.0,
+      "Food": 4752.0,
+      "Import quantity": 1330.0
+    },
+    "NGA": {
+      "Domestic supply quantity": 34114.0,
+      "Export quantity": 57.0,
+      "Food": 26318.0,
+      "Import quantity": 5077.0
+    },
+    "NIC": {
+      "Domestic supply quantity": 1822.0,
+      "Export quantity": 26.0,
+      "Food": 1357.0,
+      "Import quantity": 968.0
+    },
+    "NLD": {
+      "Domestic supply quantity": 19253.0,
+      "Export quantity": 6845.0,
+      "Food": 2567.0,
+      "Import quantity": 24769.0
+    },
+    "NOR": {
+      "Domestic supply quantity": 4395.0,
+      "Export quantity": 44.0,
+      "Food": 926.0,
+      "Import quantity": 3411.0
+    },
+    "NPL": {
+      "Domestic supply quantity": 12669.0,
+      "Export quantity": 289.0,
+      "Food": 7200.0,
+      "Import quantity": 1867.0
+    },
+    "NZL": {
+      "Domestic supply quantity": 1833.0,
+      "Export quantity": 122.0,
+      "Food": 656.0,
+      "Import quantity": 990.0
+    },
+    "OMN": {
+      "Domestic supply quantity": 2473.0,
+      "Export quantity": 390.0,
+      "Food": 656.0,
+      "Import quantity": 2602.0
+    },
+    "PAK": {
+      "Domestic supply quantity": 41543.0,
+      "Export quantity": 8341.0,
+      "Food": 31168.0,
+      "Import quantity": 2701.0
+    },
+    "PAN": {
+      "Domestic supply quantity": 1558.0,
+      "Export quantity": 7.0,
+      "Food": 922.0,
+      "Import quantity": 1030.0
+    },
+    "PER": {
+      "Domestic supply quantity": 11465.0,
+      "Export quantity": 286.0,
+      "Food": 5094.0,
+      "Import quantity": 6010.0
+    },
+    "PHL": {
+      "Domestic supply quantity": 40846.0,
+      "Export quantity": 119.0,
+      "Food": 32341.0,
+      "Import quantity": 12378.0
+    },
+    "PNG": {
+      "Domestic supply quantity": 999.0,
+      "Export quantity": 3.0,
+      "Food": 985.0,
+      "Import quantity": 936.0
+    },
+    "POL": {
+      "Domestic supply quantity": 24845.0,
+      "Export quantity": 15932.0,
+      "Food": 5591.0,
+      "Import quantity": 4419.0
+    },
+    "PRT": {
+      "Domestic supply quantity": 5879.0,
+      "Export quantity": 1264.0,
+      "Food": 1779.0,
+      "Import quantity": 6396.0
+    },
+    "PRY": {
+      "Domestic supply quantity": 3121.0,
+      "Export quantity": 5446.0,
+      "Food": 1023.0,
+      "Import quantity": 178.0
+    },
+    "QAT": {
+      "Domestic supply quantity": 1375.0,
+      "Export quantity": 1.0,
+      "Food": 627.0,
+      "Import quantity": 1292.0
+    },
+    "ROU": {
+      "Domestic supply quantity": 11869.0,
+      "Export quantity": 17071.0,
+      "Food": 3512.0,
+      "Import quantity": 4828.0
+    },
+    "RUS": {
+      "Domestic supply quantity": 86400.0,
+      "Export quantity": 40566.0,
+      "Food": 23117.0,
+      "Import quantity": 700.0
+    },
+    "RWA": {
+      "Domestic supply quantity": 1390.0,
+      "Export quantity": 2.0,
+      "Food": 1231.0,
+      "Import quantity": 545.0
+    },
+    "SAU": {
+      "Domestic supply quantity": 13065.0,
+      "Export quantity": 394.0,
+      "Food": 6554.0,
+      "Import quantity": 12690.0
+    },
+    "SEN": {
+      "Domestic supply quantity": 7360.0,
+      "Export quantity": 152.0,
+      "Food": 4336.0,
+      "Import quantity": 4085.0
+    },
+    "SLB": {
+      "Domestic supply quantity": 108.0,
+      "Export quantity": 0.0,
+      "Food": 105.0,
+      "Import quantity": 89.0
+    },
+    "SLE": {
+      "Domestic supply quantity": 2167.0,
+      "Export quantity": 0.0,
+      "Food": 1804.0,
+      "Import quantity": 723.0
+    },
+    "SLV": {
+      "Domestic supply quantity": 2027.0,
+      "Export quantity": 238.0,
+      "Food": 1003.0,
+      "Import quantity": 1370.0
+    },
+    "SRB": {
+      "Domestic supply quantity": 6947.0,
+      "Export quantity": 2308.0,
+      "Food": 1771.0,
+      "Import quantity": 244.0
+    },
+    "SUR": {
+      "Domestic supply quantity": 216.0,
+      "Export quantity": 58.0,
+      "Food": 106.0,
+      "Import quantity": 56.0
+    },
+    "SVK": {
+      "Domestic supply quantity": 2437.0,
+      "Export quantity": 3124.0,
+      "Food": 640.0,
+      "Import quantity": 1340.0
+    },
+    "SVN": {
+      "Domestic supply quantity": 1047.0,
+      "Export quantity": 1690.0,
+      "Food": 385.0,
+      "Import quantity": 2284.0
+    },
+    "SWE": {
+      "Domestic supply quantity": 3720.0,
+      "Export quantity": 1487.0,
+      "Food": 1351.0,
+      "Import quantity": 1069.0
+    },
+    "SWZ": {
+      "Domestic supply quantity": 410.0,
+      "Export quantity": 15.0,
+      "Food": 206.0,
+      "Import quantity": 368.0
+    },
+    "SYR": {
+      "Domestic supply quantity": 7291.0,
+      "Export quantity": 71.0,
+      "Food": 3969.0,
+      "Import quantity": 2351.0
+    },
+    "THA": {
+      "Domestic supply quantity": 35567.0,
+      "Export quantity": 13736.0,
+      "Food": 14762.0,
+      "Import quantity": 7302.0
+    },
+    "TJK": {
+      "Domestic supply quantity": 2836.0,
+      "Export quantity": 9.0,
+      "Food": 1812.0,
+      "Import quantity": 1326.0
+    },
+    "TKM": {
+      "Domestic supply quantity": 2196.0,
+      "Export quantity": 3.0,
+      "Food": 1282.0,
+      "Import quantity": 608.0
+    },
+    "TLS": {
+      "Domestic supply quantity": 728.0,
+      "Export quantity": 0.0,
+      "Food": 367.0,
+      "Import quantity": 553.0
+    },
+    "TTO": {
+      "Domestic supply quantity": 337.0,
+      "Export quantity": 26.0,
+      "Food": 198.0,
+      "Import quantity": 368.0
+    },
+    "TUN": {
+      "Domestic supply quantity": 5857.0,
+      "Export quantity": 84.0,
+      "Food": 2515.0,
+      "Import quantity": 4189.0
+    },
+    "TUR": {
+      "Domestic supply quantity": 59135.0,
+      "Export quantity": 13283.0,
+      "Food": 17231.0,
+      "Import quantity": 33695.0
+    },
+    "TWN": {
+      "Domestic supply quantity": 7988.0,
+      "Export quantity": 319.0,
+      "Food": 2901.0,
+      "Import quantity": 6450.0
+    },
+    "TZA": {
+      "Domestic supply quantity": 13478.0,
+      "Export quantity": 673.0,
+      "Food": 10028.0,
+      "Import quantity": 2062.0
+    },
+    "UGA": {
+      "Domestic supply quantity": 6300.0,
+      "Export quantity": 791.0,
+      "Food": 5282.0,
+      "Import quantity": 1319.0
+    },
+    "UKR": {
+      "Domestic supply quantity": 17760.0,
+      "Export quantity": 45338.0,
+      "Food": 4841.0,
+      "Import quantity": 339.0
+    },
+    "URY": {
+      "Domestic supply quantity": 2305.0,
+      "Export quantity": 3070.0,
+      "Food": 574.0,
+      "Import quantity": 1505.0
+    },
+    "USA": {
+      "Domestic supply quantity": 392556.0,
+      "Export quantity": 76750.0,
+      "Food": 44603.0,
+      "Import quantity": 21914.0
+    },
+    "UZB": {
+      "Domestic supply quantity": 10723.0,
+      "Export quantity": 1780.0,
+      "Food": 6377.0,
+      "Import quantity": 5091.0
+    },
+    "VEN": {
+      "Domestic supply quantity": 6715.0,
+      "Export quantity": 16.0,
+      "Food": 4610.0,
+      "Import quantity": 3312.0
+    },
+    "VNM": {
+      "Domestic supply quantity": 54278.0,
+      "Export quantity": 11998.0,
+      "Food": 25244.0,
+      "Import quantity": 21089.0
+    },
+    "VUT": {
+      "Domestic supply quantity": 59.0,
+      "Export quantity": 0.0,
+      "Food": 57.0,
+      "Import quantity": 58.0
+    },
+    "YEM": {
+      "Domestic supply quantity": 5034.0,
+      "Export quantity": 12.0,
+      "Food": 4879.0,
+      "Import quantity": 4200.0
+    },
+    "ZAF": {
+      "Domestic supply quantity": 18881.0,
+      "Export quantity": 5958.0,
+      "Food": 10140.0,
+      "Import quantity": 5884.0
+    },
+    "ZMB": {
+      "Domestic supply quantity": 3344.0,
+      "Export quantity": 201.0,
+      "Food": 2445.0,
+      "Import quantity": 177.0
+    },
+    "ZWE": {
+      "Domestic supply quantity": 2559.0,
+      "Export quantity": 16.0,
+      "Food": 2081.0,
+      "Import quantity": 1228.0
+    }
+  },
+  "item": "Cereals - Excluding Beer",
+  "world": {
+    "Domestic supply quantity": 3171519.0,
+    "Export quantity": 629963.0,
+    "Food": 1426933.0,
+    "Import quantity": 714461.0
+  },
+  "year": 2023
+}

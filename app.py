@@ -27,9 +27,10 @@ def create_app():
 	static_folder="dist",
 	static_url_path=""
     )
+
     @app.route("/")
-    def index():
-	return app.send_static_file("index.html")
+	def index():
+		return app.send_static_file("index.html")
 
     data = pd.read_csv(
         ROOT / "data" / "food_balance_long.csv",
